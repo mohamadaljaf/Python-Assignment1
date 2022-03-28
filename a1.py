@@ -1,3 +1,7 @@
+'''
+    Python Computer Science Assignment
+    Author: Mohamad Al-Jaf
+'''
 import sound
 
 def rem_vocals(snd):
